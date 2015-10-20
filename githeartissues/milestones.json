@@ -1,17 +1,18 @@
 {
-  "1": [],
-  "2": [
-    {
-      "title": "Lol",
-      "number": 3
-    },
-    {
-      "title": "Test issue",
-      "number": 2
-    },
+  "1": [
     {
       "title": "tear resource page apart and decide where content goes",
       "number": 1
+    },
+    {
+      "title": "Lol",
+      "number": 3
+    }
+  ],
+  "2": [
+    {
+      "title": "Test issue",
+      "number": 2
     }
   ]
 }
