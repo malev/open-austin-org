@@ -11,16 +11,12 @@
     {
       "title": "create membership survey for connect w/ us link",
       "number": 7
-    },
-    {
-      "title": "Reach out to Taylor or find another WP developer for FU weekend",
-      "number": 5
     }
   ],
   "2": [
     {
-      "title": "configure git heart issues with tasks",
-      "number": 6
+      "title": "Reach out to Taylor or find another WP developer for FU weekend",
+      "number": 5
     }
   ],
   "3": [
@@ -30,6 +26,10 @@
     }
   ],
   "4": [
+    {
+      "title": "configure git heart issues with tasks",
+      "number": 6
+    },
     {
       "title": "Get groceries",
       "number": 4
